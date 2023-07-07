@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_record_pattern/data/data.dart';
 import 'package:flutter_record_pattern/screen/document.dart';
 
-import '../screen/increment.dart';
 
 void main() {
   runApp(const MyApp());
